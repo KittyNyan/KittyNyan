@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @KittyNyan! I'm currently a senior high school student who has some experience in coding. I plan to attend Mount Allison University for the fall semester.
+- I'll probably update this README when I'm more qualified!
